@@ -1,5 +1,15 @@
 npx create-next-app@latest ./
 
+npx shadcn-ui@latest add ...
+
+## GIT:
+
+git init
+git add ./
+git branch -M main
+git remote add origin https://github.com/huynhvanhoa/Next14.1.4_tailwind-new.git
+git push -u origin main
+
 ## BOOSTSTRAP:
 
 npm i bootstrap react-bootstrap
